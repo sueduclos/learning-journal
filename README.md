@@ -6,14 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Growth Mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When learning, growth mindset is the key to one's success. It's believing that you are in control of your own learning. That brains and talent are just the starting point. 
 
 ```markdown
 Syntax highlighted code block
 
-# This is the large header
-## This is a smaller header
-### This is a even smaller header
+# This is an <h1> tag
+## This is an <h2> tag
+### This is an <h3> tag
 
 - Bulleted
 - List
