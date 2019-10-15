@@ -6,7 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Growth Mindset
 
-When learning, growth mindset is the key to one's success. It's believing that you are in control of your own learning. That brains and talent are just the starting point. 
+When learning, growth mindset is the key to one's success. It's believing that you are in control of your own learning. Knowledge and talent are just the starting point. 
+
+***Growth Mindset Reminders***
+1. I am on the right track
+2. This may take time and effort
+3. I haven't figured it out YET
 
 ```markdown
 Syntax highlighted code block
