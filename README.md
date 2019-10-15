@@ -4,16 +4,16 @@ You can use the [editor on GitHub](https://github.com/sueduclos/learning-journal
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Growth Mindset
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# About Me
-## Header 2
-### Header 3
+# This is the large header
+## This is a smaller header
+### This is a even smaller header
 
 - Bulleted
 - List
