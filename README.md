@@ -1,42 +1,24 @@
 ## Welcome to My Learning Journal
 
-You can use the [editor on GitHub](https://github.com/sueduclos/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my journal to document my Coding 102 journey. 
 
 ### Growth Mindset
 
-When learning, growth mindset is the key to one's success. It's believing that you are in control of your own learning. Knowledge and talent are just the starting point. 
+When learning, growth mindset is the key to one's success. It's believing that you are in control of your own learning. Talent, intelligence and abilities can be increased through hard work and effort. 
+
+In the words of Irving Berlin:
+>Talent is only the starting point.
 
 ***Growth Mindset Reminders***
 1. I am on the right track
 2. This may take time and effort
 3. I haven't figured it out YET
 
-```markdown
-Syntax highlighted code block
 
-# This is an <h1> tag
-## This is an <h2> tag
-### This is an <h3> tag
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sueduclos/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site was built using [GitHub Pages](https://pages.github.com/)
