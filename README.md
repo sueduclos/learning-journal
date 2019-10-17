@@ -36,7 +36,7 @@ A text editor allows you to write and manage text that you write to build a webs
 
 
 * IDE (Integrated Development Environment)
- ** All in one software package - a text editor, file manager, a compiler, and debugger.
+  * All in one software package - a text editor, file manager, a compiler, and debugger.
 
 
 ### Support or Contact
