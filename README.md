@@ -25,7 +25,7 @@ In the words of **Irving Berlin**:
 
 #### Text Editors
 
-A text editor allows you to write and manage text that you write to build a website.
+A text editor allows you to write and manage text that you write to build a website. It's important for software developers to choose the text editor that works best for them in order to be successful and accomplish more with less effort. 
 
 * Basic Text Editor
   * Every computer comes with its own editor. Does not have many features.
