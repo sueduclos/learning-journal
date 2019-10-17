@@ -21,6 +21,18 @@ In the words of **Irving Berlin**:
 3. I haven't figured it out YET
 
 
+### The Coder's Computer
+
+#### Text Editors
+
+* Basic Text Editor
+  * Every computer comes with its own editor. Does not have many features.
+
+* Code-Specific Editor
+  * Third- party options that can be downloaded. Offer more features like: 
+
+* IDE (Integrated Development Environment)
+
 
 ### Support or Contact
 
