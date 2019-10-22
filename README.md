@@ -12,6 +12,9 @@ Link to my GitHub page: https://github.com/sueduclos
 - [Class 2](class2.md)
 - [Class 3](class3.md)
 - [Class 4](class4.md)
+- [Class 5](class5.md)
+- [Class 6](class6.md)
+- [Class 6b](class7.md)
 
 ### Support or Contact
 
